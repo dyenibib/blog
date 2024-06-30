@@ -9,11 +9,9 @@ In a world full of tech tools and apps that simplify our lives, some truly stand
 
 ## Hardware
 
-As of this year, 2024:
-
 - My MacBook Air 13" came early 2015, no seven-year itch, I pray.
-- My Logitech M238 Sneaker Head is younger by two years and one battery replacement, yay!
-- Samsung Smart Monitor M5 is my extended display and is the youngest at 5 years and still looking great!
+- My Logitech M238 Sneaker Head is two years and one battery replacement younger, yay!
+- Samsung Smart Monitor M5 is my extended display and is the youngest at 5, still tip-top, looking great!
 
 ## Tools and Apps
 
@@ -25,5 +23,5 @@ As of this year, 2024:
 ## Web + Repo
 
 - [Hugo Blox](https://hugoblox.com) built this site;
-- [Netlify] (https://netlify.com) powered it; and,
+- [Netlify](https://netlify.com) powered it; and,
 - [GitHub](https://github.io) deployed it.
