@@ -5,22 +5,25 @@ hide_date: true
 reading_time: false
 ---
 
-The idea of a Uses page is to tell you about the stuff I use.
+In a world full of tech tools and apps that simplify our lives, some truly stand out. These gems embody 'Tech That Just Works' and have earned their badges of honor. They empower me and elevate my everyday technical experience.
 
-Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's Uses pages!
+# Hardware
 
-I often get asked about what software or hardware I use, so this page will serve as a living document and a place to point curious readers to when I get asked.
+As of this year, 2024:
 
-## Website
+- My MacBook Air 13" came early 2015, no seven-year itch, I pray.
+- My Logitech M238 Sneaker Head is younger by two years and one battery replacement, yay!
+- Samsung Smart Monitor M5 is my extended display and is the youngest at 5 years and still looking great!
 
-- [Hugo Blox](https://hugoblox.com) (see the tutorial on [Getting Started](/blog/get-started/))
+# Tools and Apps
 
-## Editor + Terminal
+- [Brave](https://brave.com) is my favorite chromium-based browser;
+- [Sublime Text](https://sublimetext.com/) is my copy-paste go-to and editor;
+- [Bear](https://bear.app) has all of my brain notes and clutter; and,
+- [Figma](https://figma.com) is my workflow and process designer.
 
-- [Visual Studio Code](https://code.visualstudio.com/) is my current editor
-- Chrome is my main browser
-- iTerm2 is my terminal
+## Web + Repo
 
-## Desktop Apps
-
-- Better Touch Tool for window management and custom keyboard shortcuts
+- [Hugo Blox](https://hugoblox.com) built this site;
+- [Netlify] (https://netlify.com) powered it; and,
+- [GitHub](https://github.io) deployed it.
