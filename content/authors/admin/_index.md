@@ -34,8 +34,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:jaja@intelimina.com'
     label: Work Email
-#  - icon: brands/x
-#    url: https://twitter.com/GetResearchDev
+  - icon: brands/telegram
+    url: https://t.me/jajabdr
 #  - icon: brands/instagram
 #    url: https://www.instagram.com/
   - icon: brands/linkedin
