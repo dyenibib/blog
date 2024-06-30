@@ -1,13 +1,14 @@
 ---
 # Display name
-title: 吳健雄
+title: JAJA DEL ROSARIO
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Genevieve
+second_name: "Jaja"
+last_name: del Rosario
 
 # Status emoji
 status:
@@ -17,32 +18,32 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Technical Writer and UX Communicator
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Intelimina Systems, Inc.
+    url: https://www.intelimina.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: While the tech and design team breathes jargon, I make sure end-users breathe easy.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: 'mailto:jaja@intelimina.com'
+    label: Work Email
+#  - icon: brands/x
+#    url: https://twitter.com/GetResearchDev
+#  - icon: brands/instagram
+#    url: https://www.instagram.com/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/genevievedelrosario/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: academicons/cv
-    url: uploads/resume.pdf
-    label: Download my resume
+#  - icon: academicons/cv
+#    url: uploads/resume.pdf
+#    label: Download my resume
   - icon: rss
     url: ./post/index.xml
     label: Subscribe to my blog via RSS feed
@@ -54,6 +55,10 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jaja leads the Support, QA, and Documentation Team (SQD) at Intelimina Systems, Inc., focusing on three key areas.
+
+- **Support**: Delivering quality engagement and training for product and app users
+- **QA**: Ensuring exceptional user experience in client-facing applications
+- **Documentation**: Creating user-friendly guides and manuals that simplify complex information for diverse audiences
+
+She prides her team’s multifaceted expertise that bridges the gap between technical knowledge and user needs, ensuring seamless interaction and support.
