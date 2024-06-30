@@ -1,13 +1,14 @@
 ---
 # Display name
-title: JAJA DEL ROSARIO
+title: LineByte
+subtitle: making tech talk simple
 
 # Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
+name_pronunciation: Jaja del Rosario
 
 # Full name (for SEO)
 first_name: Genevieve
-second_name: "Jaja"
+second_name: Jaja
 last_name: del Rosario
 
 # Status emoji
@@ -54,11 +55,12 @@ highlight_name: true
 # Author's website URL
 website: ""
 ---
+*While the tech and design team breathes jargon, I make sure end-users breathe easy.*
 
-Jaja leads the Support, QA, and Documentation Team (SQD) at Intelimina Systems, Inc., focusing on three key areas.
+Hello, I am Jaja. I lead the Support, QA, and Documentation Team (SQD) at Intelimina Systems, Inc. SQD (sometimes a squid, sometimes a squad) focuses on three key areas.
 
 - **Support**: Delivering quality engagement and training for product and app users
 - **QA**: Ensuring exceptional user experience in client-facing applications
 - **Documentation**: Creating user-friendly guides and manuals that simplify complex information for diverse audiences
 
-She prides her team’s multifaceted expertise that bridges the gap between technical knowledge and user needs, ensuring seamless interaction and support.
+SQD bridges the gap between technical knowledge and user needs, ensuring seamless interaction and support.

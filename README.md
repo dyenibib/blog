@@ -1,38 +1,66 @@
-# [Creator's Blog: Hugo Theme](https://github.com/HugoBlox/theme-blog)
+---
+# Display name
+title: LineByte
+subtitle: making tech talk simple
 
-[![Screenshot](./.github/preview.png)](https://hugoblox.com/templates/)
+# Name pronunciation (optional)
+name_pronunciation: Jaja del Rosario
 
-The **Creator's Blog** Hugo Theme empowers you to easily create your own _personal blog_ or _build a business around your content_.
+# Full name (for SEO)
+first_name: Genevieve
+second_name: Jaja
+last_name: del Rosario
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, block-based website builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+# Status emoji
+status:
+  icon: ☕️
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/templates/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/GetResearchDev)
+# Is this the primary user of the site?
+superuser: true
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+# Role/position/tagline
+role: Technical Writer and UX Communicator
 
-[Check out the latest demo](https://hugo-blog-theme.netlify.app/) of what you'll get in less than 10 minutes, or [view the showcase](https://hugoblox.com/creators/).
+# Organizations/Affiliations to show in About widget
+organizations:
+  - name: Intelimina Systems, Inc.
+    url: https://www.intelimina.com/
 
-The integrated [**Hugo Blox**](https://hugoblox.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+# Short bio (displayed in user profile at end of posts)
+bio: While the tech and design team breathes jargon, I make sure end-users breathe easy.
 
-- 👉 [**Get Started**](https://hugoblox.com/templates/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox Builder community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 🐦 Share your new site with the community: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithHugoBlox](https://twitter.com/search?q=%23MadeWithHugoBlox&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/HugoBlox/hugo-blox-builder/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+# Social Networking
+# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+profiles:
+  - icon: at-symbol
+    url: 'mailto:jaja@intelimina.com'
+    label: Work Email
+  - icon: brands/telegram
+    url: https://t.me/jajabdr
+#  - icon: brands/instagram
+#    url: https://www.instagram.com/
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/genevievedelrosario/
+  # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
+#  - icon: academicons/cv
+#    url: uploads/resume.pdf
+#    label: Download my resume
+  - icon: rss
+    url: ./post/index.xml
+    label: Subscribe to my blog via RSS feed
 
-## We ask you, humbly, to support this open source movement
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 
-Today we ask you to defend the open source independence of the Hugo Blox Builder and themes 🐧
+# Author's website URL
+website: ""
+---
+*While the tech and design team breathes jargon, I make sure end-users breathe easy.*
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+Hello, I am Jaja. I lead the Support, QA, and Documentation Team (SQD) at Intelimina Systems, Inc. SQD (sometimes a squid, sometimes a squad) focuses on three key areas.
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://hugoblox.com/sponsors/)
+- **Support**: Delivering quality engagement and training for product and app users
+- **QA**: Ensuring exceptional user experience in client-facing applications
+- **Documentation**: Creating user-friendly guides and manuals that simplify complex information for diverse audiences
 
-## Demo credits
-
-- [Unsplash](https://unsplash.com/) images
+SQD bridges the gap between technical knowledge and user needs, ensuring seamless interaction and support.
