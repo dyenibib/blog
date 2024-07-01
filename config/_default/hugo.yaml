@@ -5,7 +5,7 @@
 
 title: "LineByte" # Website name
 subtitle: "making tech talk simple"
-baseURL: 'https://dyenibib.github.io/' # Website URL
+baseURL: 'https://dyenibib.github.io/blog' # Website URL
 
 ############################
 ## PAGE OPTIONS
