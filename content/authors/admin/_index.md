@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dyenibib
+title: LineByte
 subtitle: making tech talk simple
 
 # Name pronunciation (optional)
