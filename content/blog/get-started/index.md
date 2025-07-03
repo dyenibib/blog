@@ -1,5 +1,5 @@
 ---
-title: "Collab Presetnation: Grado x City of Baliwag SDO"
+title: "Collab Presentation: Grado x City of Baliwag SDO"
 date: 2025-07-03
 draft: false
 description: "A digital transformation partnership for Division Management in Baliwag"
