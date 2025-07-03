@@ -1,6 +1,6 @@
 ---
 # Display name
-title: LineByte
+title: Dyenibib
 subtitle: making tech talk simple
 
 # Name pronunciation (optional)
@@ -57,7 +57,7 @@ website: ""
 ---
 *While the tech and design team breathes jargon, I make sure end-users breathe easy.*
 
-Hello, I am Jaja. I lead the Support, QA, and Documentation Team (SQD) at Intelimina Systems, Inc. SQD (sometimes a squid, sometimes a squad) focuses on three key areas.
+Hello, I am Jaja. I work with the Support, QA, and Documentation Team (SQD) at Intelimina Systems, Inc. SQD (sometimes a squid, sometimes a squad) focuses on three key areas.
 
 - **Support**: Delivering quality engagement and training for product and app users
 - **QA**: Ensuring exceptional user experience in client-facing applications
